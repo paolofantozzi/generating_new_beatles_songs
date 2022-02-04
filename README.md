@@ -13,9 +13,9 @@ The notebook provides a function `generate` that takes as input:
 Examples
 ========
 
-Can't Help Falling in Love __(temperature=0.8, top_k=0)__
+Can't Help Falling in Love *(temperature=0.8, top_k=0)*
 ----------------------------------------------------------
-
+```
 [Intro]
 Can't help falling in love
 I can't help it
@@ -44,10 +44,12 @@ Can't help falling in love
 I'm falling in love for you (I'm falling in love)
 You're falling in love for me (Oh my darling)
 You're falling in love for me (Oh my darling)
+```
 
-I don't want to miss a thing __(temperature=0.8, top_k=40)__
+I don't want to miss a thing *(temperature=0.8, top_k=40)*
 ------------------------------------------------------------
 
+```
 [Verse 1]
 I don't want to miss a thing
 It's only a whim, but a day or two goes by
@@ -130,10 +132,12 @@ Hey! Yeah! Ow!
 
 [Outro]
 Aw! Ow!
+```
 
-Isn't she lovely __(temperature=0.8, top_k=40)__
+Isn't she lovely *(temperature=0.8, top_k=40)*
 ------------------------------------------------
 
+```
 [Intro]
 
 [Verse 1]
@@ -271,3 +275,4 @@ Tasting all my dreams
 Isn't she the kind of girl I love?
 People tell me she's only
 Fooling, I know she isn't
+```
